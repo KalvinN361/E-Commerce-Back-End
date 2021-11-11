@@ -49,4 +49,4 @@ We can choose from many ORM tools, but for this unit we will use Sequelize. A po
   
   
   ## Visual Presentation
-  ![readMe Generator Demo](https://github.com/KalvinN361/Employee-Tracker/blob/e605fe9afd9c4858bb3a654c7dfa90ee4b388afd/demo.gif) 
+  ![readMe Generator Demo](https://github.com/KalvinN361/E-Commerce-Back-End/blob/0afc52e14837484f736fbb61809f6a90c9d9a559/Demo%20(2).gif) 
