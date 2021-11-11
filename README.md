@@ -12,13 +12,13 @@ We can choose from many ORM tools, but for this unit we will use Sequelize. A po
   ```
   Download/clone the repository from github and then:
   
-  `npm init`
+  npm init
   
-  `npm install mysql2`
+  npm install mysql2
 
-  `npm install sequelize`
+ `npm install sequelize
 
-  `npm install dotenv`
+  npm install dotenv
   ```
   ## Usage
   Run 'npm start' in terminal and follow the prompts!
