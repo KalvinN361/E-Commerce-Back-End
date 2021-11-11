@@ -16,12 +16,26 @@ We can choose from many ORM tools, but for this unit we will use Sequelize. A po
   
   npm install mysql2
 
- `npm install sequelize
+  npm install sequelize
 
   npm install dotenv
   ```
   ## Usage
-  Run 'npm start' in terminal and follow the prompts!
+  Seed the data by typing "mysql -u root -p"
+  
+  Entering Password
+  
+  "SOURCE db/schema.sql;"
+  
+  "Quit"
+  
+  "npm run seed"
+  
+  "npm start"
+  
+  Follow the prompts  
+  
+  
   
   ## License
     This project is licensed under the MIT license.
